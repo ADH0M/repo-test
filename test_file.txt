@@ -1,5 +1,5 @@
 create first app 
 create first branch and commit it
 feature one branch is use now 
-allow to allow to allow to 
+new user 
 
