@@ -1,5 +1,2 @@
-create first app 
-create first branch and commit it
-feature one branch is use now 
-new user 
+feature two added
 
